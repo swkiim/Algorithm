@@ -1,6 +1,6 @@
 public class Test
 {
-	public static void main(String[] args)
+    public static void main(String[] args)
     {
     	int a[] = {10, 53, 35, 100, 87}
         int i = 0;
